@@ -1,0 +1,38 @@
+[
+    {
+        "NamaLengkap": "Adnan",
+        "JumlahHadir": "2",
+        "Kehadiran": "hadir",
+        "id": 1
+    },
+    {
+        "NamaLengkap": "Nur",
+        "JumlahHadir": "2",
+        "Kehadiran": "hadir",
+        "id": 2
+    },
+    {
+        "NamaLengkap": "Tirami",
+        "JumlahHadir": "1",
+        "Kehadiran": "tidak hadir",
+        "id": 3
+    },
+    {
+        "NamaLengkap": "Lucy",
+        "JumlahHadir": "1",
+        "Kehadiran": "tidak hadir",
+        "id": 4
+    },
+    {
+        "NamaLengkap": "Adnan",
+        "JumlahHadir": "2",
+        "Kehadiran": "hadir",
+        "id": 5
+    },
+    {
+        "NamaLengkap": "Adnan Fadhillah",
+        "JumlahHadir": "1",
+        "Kehadiran": "tidak hadir",
+        "id": 6
+    }
+]

@@ -1,2 +1,2 @@
 # typescript-react
-Practice typescript in react
+ practice typescript in react
